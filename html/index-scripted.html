@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Uzaktan</title>
+    <style>
+      p {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="sozler"></div>
+    <script type="text/javascript">
+      const data = [
+        "Neden kaçtın neden?",
+          "Mesut olurduk belki",
+          "Korkuttum mu seni?",
+          "Benden ne zarar gelir ki?",
+          "",
+          "Seni seyretmem, gezmem lazımdı",
+          "Bu yolun sonunu bulmam lazımdı",
+          "Seni tanımam, bilmem lazımdı",
+          "Bu hikâyeye bir son lazımdı",
+          "",
+          "Öyle uzaktan uzaktan hiç konuşmadan nasıl da bağladın beni?",
+          "Hani bi' geldin bi' kayboldun, esrarlı mağrurdun, aklıma sardım seni",
+          "Öyle uzaktan uzaktan hiç konuşmadan nasıl da bağladın beni?",
+          "Hani bi' geldin bi' kayboldun, esrarlı mağrurdun, aklıma sardım seni",
+          "",
+          "Nedir sırrın ne senin?",
+          "Çekip bıraktım, sen kimsin?",
+          "Toz ol, derdim bitsin",
+          "Aklım aşkını yensin",
+          "",
+          "Seni seyretmem, gezmem lazımdı",
+          "Bu yolun sonunu bulmam lazımdı",
+          "Seni tanımam, bilmem lazımdı",
+          "Dudaklarıma bir veda lazımdı",
+          "",
+          "Öyle uzaktan uzaktan hiç konuşmadan nasıl da bağladın beni?",
+          "Hani bi' geldin bi' kayboldun, esrarlı mağrurdun, aklıma sardım seni",
+          "Öyle uzaktan uzaktan hiç konuşmadan nasıl da bağladın beni?",
+          "Hani bi' geldin bi' kayboldun, esrarlı mağrurdun, aklıma sardım seni",
+          "",      
+          "Aklıma sardım seni, aklıma sardım seni",
+      ];
+
+      const container = document.getElementById("sozler");
+
+      for (let i = 0; i < data.length; i++) {
+        const soz = data[i];
+        let el = document.createElement("p");
+        if (soz === "") {
+          el = document.createElement("br");
+        }
+        el.innerHTML = soz;
+        container.appendChild(el);
+      }
+    </script>
+  </body>
+</html>

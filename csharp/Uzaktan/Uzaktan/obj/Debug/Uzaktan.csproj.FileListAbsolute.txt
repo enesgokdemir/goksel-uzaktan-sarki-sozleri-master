@@ -1,0 +1,8 @@
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\bin\Debug\Uzaktan.exe.config
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\bin\Debug\Uzaktan.exe
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\bin\Debug\Uzaktan.pdb
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\obj\Debug\Uzaktan.csproj.AssemblyReference.cache
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\obj\Debug\Uzaktan.csproj.SuggestedBindingRedirects.cache
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\obj\Debug\Uzaktan.csproj.CoreCompileInputs.cache
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\obj\Debug\Uzaktan.exe
+C:\Users\enes\Source\Repos\Uzaktan\Uzaktan\obj\Debug\Uzaktan.pdb

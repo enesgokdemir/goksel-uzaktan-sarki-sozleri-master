@@ -1,5 +1,5 @@
 # Göksel Uzaktan Şarki Sözleri
-![](images/goksel.png)
+![](images/goksel.jpg)
 ## İçerik
 ```
 Neden kaçtın neden?
